@@ -263,4 +263,4 @@ This application is for informational purposes only and is not intended to be a 
 
 ---
 
-**Built with ❤️ using Flutter and BLoC**
+**Built with ❤️ using Flutter**
